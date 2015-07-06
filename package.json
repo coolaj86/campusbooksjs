@@ -1,0 +1,12 @@
+{
+  "name"          : "campusbooks",
+  "description"   : "Takedown Notice",
+  "url"           : "http://github.com/coolaj86/campusbooksjs",
+  "keywords"      : [],
+  "author"        : "AJ ONeal <coolaj86@gmail.com>",
+  "contributors"  : [],
+  "dependencies"  : {
+  },
+  "main"          : "takedown.js",
+  "version"       : "1.0.0"
+}
