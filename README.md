@@ -7,7 +7,7 @@ to help their users... yikes!
 Takedown Notice
 ===============
 
-2015-July-06: My Inbox tells me
+Dated 2015 July 06
 
 > Subj: API violation
 >
@@ -26,6 +26,8 @@ Takedown Notice
 
 Reply
 =====
+
+Dated 2015 July 06
 
 > I want to be very clear that I didn't post any "hacks" of any kind, nor did I post anything material to any type of "hacker" site. Everything that I had posted was educational in nature for the purpose of helping others get started using the API, with all intentions of such access being done in a legal and proper way.
 >
