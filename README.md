@@ -4,9 +4,13 @@ of using their API or write a library and a getting started guide
 to help their users... yikes!
 -->
 
-Takedown Notice 2015-July-06
+Takedown Notice
 ===============
 
+2015-July-06: My Inbox tells me
+
+> Subj: API violation
+>
 > AJ, a while back, you were a partner with us.
 > It looks like you posted a lot of our API documentation
 > and your own hacks on various programming and hacker sites.
